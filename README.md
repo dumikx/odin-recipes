@@ -1,0 +1,1 @@
+This is my first html and Odin project. It's meant to recap all the learning from the preavious lessons such as creating .html files, editing them, adding pictures and so on. 
